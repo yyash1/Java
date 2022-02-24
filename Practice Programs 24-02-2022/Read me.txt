@@ -1,0 +1,18 @@
+1.Program
+   (File name=Proficiency)
+	Take String as input and print the level of Proficiency.
+	ex- Proficiency=Beginner
+	level=1
+
+
+2.Program
+   (File name=Discount)
+	Perform the given arithmatic Operation.
+	ex- input=1
+	output must be addition of two numbers
+
+
+3.Program
+   (File name=Discount)
+	Take year and gender from user, If student is of 3rd year and is female then she can get the Scholarship.
+	(use nested switch)
