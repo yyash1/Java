@@ -1,0 +1,41 @@
+1.Program
+   (File name=Discount)
+   A Shop will give discount of 10% if the cost of Purchased quantity is more than 1000.
+   Ask user for quantity, one unit will cost 100. Calculate discount and print total cost for user.
+
+2.Program
+   (File name=Bonus)
+    A Company decided to give bonus of 5% to employee if his/her year of Service is more 5 years.
+    Ask user for their salary and year of service and print the net bonus amount.
+
+3.Program 
+   (File name=Monthna)
+    Take Number as input and print the month.
+     ex- num=1
+         month= january
+
+4.Program
+   (File name=Month)
+    ex- month=September 
+        number of month is - 9
+ 
+5.Program
+   (File name=Oldone)
+      Take input of age of 3 people by user and determine oldest and youngest among them.
+
+6.Program
+   (File name=Absoult)
+	Write a program to print absoulte value of a number entered by user.
+       Input:1 Output:1
+       Input:-1 Output:1
+7.Program
+   (File name=Attend)
+     A student will not be allowed to sit exam if his/her attendance is less than 75%.
+     Take following input from user number of classes held Number of classes attended.
+      and print percentage of class attended is student is allowed to sit in exam or not.
+
+8.Program
+   (File name=Triangle)
+    Wirte a program to check a triangle is. An equilateral triangle is a triangle in which all 3 sides are equal.
+    A scalene triangle is a triangle that has three unequal sides.
+    An isosceles triangle is a trinagle (at least) two equal sides.
