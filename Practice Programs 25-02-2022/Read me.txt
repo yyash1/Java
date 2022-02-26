@@ -1,0 +1,15 @@
+Program 1:
+(Filename=Area)
+write program to calculate the Area of Triangle, circle, Rectangle,Square and Volume of Cuboid, Cube, Cone, Cyclinder.
+
+Program 2:
+(Filename=Mini)
+write program to perform Operations(Addition, Substraction, Multiplication, Division) on Two,Three and Four numbers respectively.
+
+Program 3:
+(Filename=Rupe)
+Write program to calculate the Notes(2000,500,100).Take the Amount from the user and show how much notes it required.
+Input=2550
+output= 2000 x 1=2000 
+	  500 x 1= 500
+	   50 x 1= 50
